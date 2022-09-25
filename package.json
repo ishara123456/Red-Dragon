@@ -413,7 +413,7 @@
     }
   }
 }
-    "jsdom": "^16.4.0",
+    "jsdom": "^16.4.0"
     "lowdb": "^2.1.0",
     "mongoose": "^6.2.1",
     "moment-timezone": "^0.5.34",
